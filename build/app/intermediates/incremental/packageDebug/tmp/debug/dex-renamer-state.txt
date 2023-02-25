@@ -1,0 +1,4 @@
+#Sat Feb 25 21:17:07 IST 2023
+base.0=/Users/shivaprasad.bhat/Desktop/flutter/flutter_grocery/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
